@@ -1,0 +1,72 @@
+.navbar a {
+  text-decoration: none;
+}
+ 
+.navbar{
+padding-top: 15px;
+}
+.loggeduser{
+  margin-top:6px; 
+}
+
+body {
+  height: 20px;
+   margin: 0 }
+
+html { background-color: rgb(204, 245, 190)}
+
+.pages {
+  /* background-color: rgb(204, 245, 190); */
+   margin: 0 auto;
+   /* height: 1000px; */
+}
+
+.workout {
+  max-width: 1050px ;
+  
+}
+
+.workoutform {
+  max-width: 400px;
+  margin-top: 104px;
+}
+
+.home {
+  /* background-color: rgb(204, 245, 190); */
+  margin-top: -20px;
+}
+
+/* .material-symbols-outlined {
+  background-color: chartreuse;
+} */
+
+.login {
+  max-width: 450px;
+  margin: 0 auto;
+  margin-top: 5%;
+  
+  
+}
+
+.loginc{
+  background-color: white;
+}
+.signupc{
+  background-color: white;
+}
+
+
+
+.signup {
+  max-width: 450px;
+  margin: 0 auto;
+  margin-top: 5%;
+  
+  
+}
+
+.loginbtn {
+   margin: 0 auto; 
+  margin-left: 125px ;
+  
+}
